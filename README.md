@@ -1,4 +1,4 @@
-# dvanced Keras Training
+# Advanced Keras Training
 ## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Advanced Keras Training](https://www.tertiarycourses.com.sg/advanced-keras-training.html) course. 
